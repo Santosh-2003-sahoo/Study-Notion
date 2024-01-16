@@ -18,3 +18,7 @@
 
 # Contact us:
 <img width="960" alt="image" src="https://github.com/Santosh-2003-sahoo/Study-Notion/assets/101939016/1268bd9e-6813-4c64-9405-989f9e674f92">
+
+# Otp emails:
+<img width="960" alt="Screenshot_20240116_151559" src="https://github.com/Santosh-2003-sahoo/Study-Notion/assets/101939016/2081cbc1-c710-4690-a15c-0077aef5047a">
+<img width="960" alt="Screenshot_20240116_151701" src="https://github.com/Santosh-2003-sahoo/Study-Notion/assets/101939016/d4087ad3-e05f-491c-a026-6d2a00057810">
